@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hallo, ich bin Micha! 👋
 
-<!--
-**TylerMDurden/TylerMDurden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Über mich
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ich mache aktuell eine Umschulung zum **Fachinformatiker Systemintegration** beim BfW Stralsund (seit 07.07.2025). Meine Leidenschaft liegt in ... [Kurze Beschreibung, was dich interessiert, z.B. Netzwerke, Linux, Scripting].
+
+Ich bin immer auf der Suche nach neuen Herausforderungen und Möglichkeiten, mein Wissen in **[...]** und **[...]** zu erweitern.
+
+- 🎓 **Aktuell lerne ich:** [Nenne spezifische Themen, z.B. Docker, PowerShell, Cisco-Technologien].
+- 💡 **Größtes Ziel:** Nach der Umschulung einen Job als ... zu finden.
+
+---
+
+### 🛠️ Meine Skills und Tools
+
+| Kategorie | Skills/Tools |
+| :--- | :--- |
+| **Betriebssysteme** | Linux (Ubuntu, Debian), Windows Server |
+| **Scripting/Code** | Bash, Python, PowerShell (gerade am Lernen) |
+| **Netzwerk/Infrastruktur** | TCP/IP, Router- und Switch-Konfiguration, Virtualisierung (VMware) |
+| **Sonstiges** | Git/GitHub, Active Directory, IT-Sicherheit |
+
+---
+
+### 📈 Meine GitHub-Statistiken
+
+Hier kommen die coolen Widgets rein, die deine Aktivität anzeigen!
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=buefy" />
+</p>
+
+---
+
+### 📬 Kontakt
+
+Du kannst mich gerne hier erreichen: [Link zu LinkedIn oder E-Mail-Adresse].
